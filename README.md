@@ -1,2 +1,2 @@
-# Summer_at_adhoc
-This is just a demo repository to store some practice code.
+# PYHTON
+This repository includes some mini programmes done with the help of various python modules.
